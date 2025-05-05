@@ -34,3 +34,10 @@
 
 ![Ycro's GitHub stats](https://github-readme-stats.vercel.app/api?username=YcroMqz&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YcroMqz&layout=compact&langs_count=4&theme=dracula)
+
+
+<div align=center>
+
+<img src="https://raw.githubusercontent.com/YcroMqz/YcroMqz/output/snake.svg" alt="Snake animation" />
+
+</div>
