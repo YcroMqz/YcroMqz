@@ -2,8 +2,10 @@
 #
 
 <img align="right" alt="" src="https://media1.tenor.com/m/pjNvammO-LQAAAAd/frieren-anime-frieren-elf.gif" width="280px">
-
-<p><strong><code align="left">  Desenvolvedor em formação :)</code></strong></p>
+<p><strong><code>void mindLoop() {<br>
+&nbsp;&nbsp;for(int i = 0;; ++i) cout << "debugging myself...\n";<br>
+}
+</code></strong></p>
 
 <br>
 
