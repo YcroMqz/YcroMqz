@@ -1,16 +1,20 @@
 # Hello World, I'm Ycro, be very welcome!
+#
 
-<div>
-  <div style="display: inline-block; width: 70%; vertical-align: top;">
+<img align="right" alt="" src="https://i.pinimg.com/originals/3d/aa/c5/3daac57c1a68599a1c7b300038fb446e.gif" width="530px">
 
-**`Desenvolvedor em formação :)`**
+<p><strong><code align="left">  Desenvolvedor em formação :)</code></strong></p>
 
-- Estudante de Ciência da Computação;
-- Interesse por algoritmos e desenvolvimento de software;
-- Gosto de aprender desenvolvendo projetos próprios;
-- Atualmente estudando JavaScript e TypeScript.
+<br>
 
-## Technologies that I use:
+> * Estudante de **Ciência da Computação**;
+> * Curioso por tudo que envolve programação e tecnologia;
+> * Codar é um hobby que virou parte da rotina;
+> * Tenho familiaridade com as linguagens **C**, **C++** e **Python**;
+> * Atualmente estudando **JavaScript** e **TypeScript**;
+> * Gosto de aprender na prática, testando ideias e criando projetinhos.
+
+<h2>Technologies that I use:</h2>
 
 <div style="display: inline_block">
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -24,12 +28,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ycrooxz_/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1262235513721716797)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ycromarques12@gmail.com)
-
-  </div>
-  <div style="display: inline-block; width: 28%; vertical-align: top;">
-    <img src="https://i.pinimg.com/originals/3d/aa/c5/3daac57c1a68599a1c7b300038fb446e.gif" style="width: 100%;">
-  </div>
-</div>
 
 
 ![Ycro's GitHub stats](https://github-readme-stats.vercel.app/api?username=YcroMqz&show_icons=true&theme=dracula)
