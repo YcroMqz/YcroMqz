@@ -1,7 +1,7 @@
 # Hello World, I'm Ycro, be very welcome!
 #
 
-<img align="right" alt="" src="https://media1.tenor.com/m/pjNvammO-LQAAAAd/frieren-anime-frieren-elf.gif" width="430px">
+<img align="right" alt="" src="https://media1.tenor.com/m/pjNvammO-LQAAAAd/frieren-anime-frieren-elf.gif" width="280px">
 
 <p><strong><code align="left">  Desenvolvedor em formação :)</code></strong></p>
 
