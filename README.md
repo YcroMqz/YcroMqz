@@ -10,7 +10,7 @@
 <br>
 
 > * Estudante de **Ciência da Computação**;
-> * Curioso por tudo que envolve programação e tecnologia;
+> * Curioso por tudo que envolve programação e tecnologia
 > * Codar é um hobby que virou parte da rotina;
 > * Tenho familiaridade com as linguagens **C**, **C++** e **Python**;
 > * Atualmente estudando **JavaScript** e **TypeScript**;
