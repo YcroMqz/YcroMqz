@@ -31,6 +31,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1262235513721716797)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ycromarques12@gmail.com)
 
+## Stats
 
 ![Ycro's GitHub stats](https://github-readme-stats.vercel.app/api?username=YcroMqz&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YcroMqz&layout=compact&langs_count=4&theme=dracula)
