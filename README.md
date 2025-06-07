@@ -1,13 +1,9 @@
-# Hello World, I'm Ycro, be very welcome!
-#
-
 <img align="right" alt="" src="https://cdn.lospec.com/gallery/floating-frieren-192562.gif" width="300px">
-<p><strong><code>void mindLoop() {<br>
-&nbsp;&nbsp;for(int i = 0;; ++i) cout << "debugging myself...\n";<br>
-}
-</code></strong></p>
-
-<br>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+there%2C+my+name+is+Icaro!" />
+  </a>
+</div>
 
 ##
 I'm a Computer Science student at the Federal University of Piauí (UFPI). I have knowledge of C++, C and Python, with a current focus on competitive programming. I am constantly looking for new knowledge and challenges in the area of algorithms and data structures.
