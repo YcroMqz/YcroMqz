@@ -1,8 +1,8 @@
-<img align="right" alt="" src="https://cdn.lospec.com/gallery/floating-frieren-192562.gif" width="300px">
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello+there%2C+my+name+is+Icaro!" />
   </a>
+  <img align="right" alt="" src="https://cdn.lospec.com/gallery/floating-frieren-192562.gif" width="300px">
 </div>
 
 ##
