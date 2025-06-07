@@ -1,7 +1,7 @@
 # Hello World, I'm Ycro, be very welcome!
 #
 
-<img align="right" alt="" src="https://media1.tenor.com/m/pjNvammO-LQAAAAd/frieren-anime-frieren-elf.gif" width="280px">
+<img align="right" alt="" src="https://cdn.lospec.com/gallery/floating-frieren-192562.gif" width="300px">
 <p><strong><code>void mindLoop() {<br>
 &nbsp;&nbsp;for(int i = 0;; ++i) cout << "debugging myself...\n";<br>
 }
@@ -14,10 +14,11 @@ I'm a Computer Science student at the Federal University of Piauí (UFPI). I hav
 ##
 
 [![Ycro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YcroMqz&theme=react-dark)](https://github.com/YcroMqz/github-readme-activity-graph)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=YcroMqz&show_icons=true&theme=transparent" style="border: none;">
+</p>
 
-![Ycro's GitHub stats](https://github-readme-stats.vercel.app/api?username=YcroMqz&show_icons=true&theme=transparent)
-
-<h2>Skills:</h2>
+## Skills:
 
 <div style="display: inline_block">
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
