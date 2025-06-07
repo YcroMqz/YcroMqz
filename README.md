@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello+there%2C+my+name+is+Icaro!" />
   </a>
-  <img align="right" alt="" src="https://cdn.lospec.com/gallery/floating-frieren-192562.gif" width="300px">
+  <img align="right" alt="" src="https://cdn.lospec.com/gallery/floating-frieren-192562.gif" width="280px">
 </div>
 
 ##
@@ -14,7 +14,7 @@ I'm a Computer Science student at the Federal University of Piauí (UFPI). I hav
     <img src="https://github-readme-stats.vercel.app/api?username=YcroMqz&show_icons=true&theme=transparent" style="border: none;">
 </p>
 
-## Skills:
+## Skills
 
 <div style="display: inline_block">
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -23,7 +23,7 @@ I'm a Computer Science student at the Federal University of Piauí (UFPI). I hav
     <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-## Contacts:
+## Contacts
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ycrooxz_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ycromarques12@gmail.com)
