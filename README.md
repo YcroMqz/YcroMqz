@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello+there%2C+my+name+is+Icaro!" />
   </a>
-  <img align="right" alt="" src="https://cdn.lospec.com/gallery/floating-frieren-192562.gif" width="250px">
+  <img align="right" alt="" src="https://cdn.lospec.com/gallery/floating-frieren-192562.gif" width="220px">
 </div>
 
 ##
