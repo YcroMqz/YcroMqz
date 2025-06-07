@@ -8,14 +8,14 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="65%">
 
 I'm a Computer Science student at the Federal University of Piauí (UFPI). I have knowledge of C++, C and Python, with a current focus on competitive programming. I am constantly looking for new knowledge and challenges in the area of algorithms and data structures.
 
 </td>
-<td width="40%">
+<td width="35%">
 
-<img align="right" alt="Animação de Frieren flutuando" src="https://cdn.lospec.com/gallery/floating-frieren-192562.gif" width="300">
+<img align="right" alt="Animação de Frieren flutuando" src="https://cdn.lospec.com/gallery/floating-frieren-192562.gif" width="220">
 
 </td>
 </tr>
