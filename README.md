@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=150&section=header)
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello+there%2C+my+name+is+Icaro!" />
@@ -40,6 +41,8 @@ I'm a Computer Science student at the Federal University of Piauí (UFPI). I hav
 ## Contacts
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ycrooxz_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ycromarques12@gmail.com)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00E0FF&height=150&section=footer)
 
 <div align=center>
 <img src="https://raw.githubusercontent.com/YcroMqz/YcroMqz/output/snake.svg" alt="Snake animation" />
