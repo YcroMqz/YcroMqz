@@ -1,7 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=216bff&height=150&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=84c242&height=150&section=header)
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+there%2C+my+name+is+Icaro!&font=Fira+Code&center=true&width=440&height=45" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+there%2C+my+name+is+Icaro!&font=Fira+Code&center=true&width=440&height=45&color=84c242" />
   </a>
 </div>
 
@@ -24,10 +24,12 @@ Sou um estudante de CS apaixonado pela interseção entre lógica e arte.
 
 <br>
 
+*"Feito com ódio, café e Neovim."*
+
 </td>
 <td width="35%" align="center">
 
-<img alt="Animação de Frieren flutuando" src="https://cdn.lospec.com/gallery/floating-frieren-192562.gif" width="100%">
+<img alt="Animação de Frieren flutuando" src="https://i.pinimg.com/originals/03/20/1c/03201c747fa3f6983cb10607fbaefc27.gif" width="100%">
 
 </td>
 </tr>
@@ -37,10 +39,10 @@ Sou um estudante de CS apaixonado pela interseção entre lógica e arte.
 
 ### 📊 Github Stats
 
-[![Ycro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YcroMqz&theme=react-dark)](https://github.com/YcroMqz/github-readme-activity-graph)
+[![Ycro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YcroMqz&bg_color=0d1117&color=84c242&line=84c242&point=ffffff&area=true&hide_border=true)](https://github.com/YcroMqz/github-readme-activity-graph)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YcroMqz&show_icons=true&theme=transparent&hide_border=true" style="border: none;">
+    <img src="https://github-readme-stats.vercel.app/api?username=YcroMqz&show_icons=true&theme=transparent&hide_border=true&title_color=84c242&icon_color=84c242&text_color=c9d1d9" style="border: none;">
 </p>
 
 ### 🛠️ Skills
@@ -58,7 +60,7 @@ Sou um estudante de CS apaixonado pela interseção entre lógica e arte.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ycrooxz_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ycromarques12@gmail.com)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=216bff&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=84c242&height=150&section=footer)
 
 <div align=center>
 <img src="https://raw.githubusercontent.com/YcroMqz/YcroMqz/output/snake.svg" alt="Snake animation" />
