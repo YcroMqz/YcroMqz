@@ -11,7 +11,7 @@
 <tr>
 <td width="65%" valign="top">
 
-### 👾 Ycro Marques
+### 🍃 Ycro Marques
 
 **Computação | Design | Código**
 
@@ -23,8 +23,6 @@ Sou um estudante de CS apaixonado pela interseção entre lógica e arte.
 * 🐧 **OS:** Arch Linux (sim, eu preciso falar).
 
 <br>
-
-*"Feito com ódio, café e Neovim."*
 
 </td>
 <td width="35%" align="center">
@@ -41,9 +39,6 @@ Sou um estudante de CS apaixonado pela interseção entre lógica e arte.
 
 [![Ycro's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YcroMqz&bg_color=0d1117&color=84c242&line=84c242&point=ffffff&area=true&hide_border=true)](https://github.com/YcroMqz/github-readme-activity-graph)
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YcroMqz&show_icons=true&theme=transparent&hide_border=true&title_color=84c242&icon_color=84c242&text_color=c9d1d9" style="border: none;">
-</p>
 
 ### 🛠️ Skills
 <div style="display: inline_block">
