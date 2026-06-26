@@ -53,7 +53,8 @@ Sou um estudante de CS apaixonado pela interseção entre lógica e arte.
 <p>
 <img align="center" alt="C" src="https://img.shields.io/badge/C-15260d?style=for-the-badge&logo=c&logoColor=84c242"/>
 <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-15260d?style=for-the-badge&logo=c%2B%2B&logoColor=84c242"/>
-<img align="center" alt="python" src="https://img.shields.io/badge/Python-15260d?style=for-the-badge&logo=python&logoColor=84c242"/>
+<img align="center" alt="Go" src="https://img.shields.io/badge/Go-15260d?style=for-the-badge&logo=go&logoColor=84c242"/>
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-15260d?style=for-the-badge&logo=python&logoColor=84c242"/>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-15260d?style=for-the-badge&logo=html5&logoColor=84c242"/>
 <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-15260d?style=for-the-badge&logo=css3&logoColor=84c242"/>
 </p>
