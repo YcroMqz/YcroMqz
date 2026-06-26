@@ -17,10 +17,10 @@
 
 Sou um estudante de CS apaixonado pela interseção entre lógica e arte.
 
-* 🧠 **Cérebro:** Algoritmos e Programação Competitiva.
-* 🎨 **Coração:** Design e Interfaces (Front-end).
+* 🧠 Algoritmos e Programação Competitiva.
+* 🎨 Design e Interfaces.
 * 🚀 **Meta:** Me tornar especialista em Engenharia de Software.
-* 🐧 **OS:** Arch Linux (sim, eu preciso falar).
+* 🐧 **OS:** Arch Linux
 
 <br>
 
