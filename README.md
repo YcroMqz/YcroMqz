@@ -16,8 +16,8 @@
 
 Sou um estudante de CS apaixonado pela interseção entre lógica e arte.
 
-* **Algoritmos:** Treinamento ativo em programação competitiva
-* **Design & UI:** Destaque na criação de identidades visuais e interfaces
+* **Algoritmos:** Treinamento ativo em programação competitiva;
+* **Design & UI:** Destaque na criação de identidades visuais e interfaces;
 * **Atualmente:** Estudando Redes de Computadores e buscando ampliar meus conhecimentos em desenvolvimento de software e colaboração em projetos open source.
 <br>
 
@@ -56,7 +56,6 @@ Sou um estudante de CS apaixonado pela interseção entre lógica e arte.
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-943535?style=for-the-badge&logo=git&logoColor=f2e3c9"/>
   <img align="center" alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-7d6442?style=for-the-badge&logo=arch-linux&logoColor=f2e3c9"/>
   <img align="center" alt="VS Code" src="https://img.shields.io/badge/VS_Code-943535?style=for-the-badge&logo=visual-studio-code&logoColor=f2e3c9"/>
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-7d6442?style=for-the-badge&logo=figma&logoColor=f2e3c9"/>
 </p>
 </div>
 
@@ -84,7 +83,3 @@ Sou um estudante de CS apaixonado pela interseção entre lógica e arte.
 <br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7d6442,100:943535&height=150&section=footer)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YcroMqz/YcroMqz/output/snake.svg" alt="Snake animation" />
-</div>
