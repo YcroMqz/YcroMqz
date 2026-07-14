@@ -11,9 +11,9 @@
 
 Sou um estudante de CS apaixonado pela interseção entre lógica e arte.
 
-- **Algoritmos:** Treinamento ativo em programação competitiva
-- **Design & UI:** Destaque na criação de identidades visuais e interfaces
-- **Atualmente:** Estudando Redes de Computadores e buscando ampliar meus conhecimentos em desenvolvimento de software e colaboração em projetos open source
+- **Algoritmos:** Treinamento ativo em programação competitiva;
+- **Design & UI:** Interesse em criação de identidades visuais e interfaces;
+- **Atualmente:** Estudando Redes de Computadores, aprofundando meus conhecimentos em Lua e contribuindo para projetos pessoais.
 
 </td>
 <td width="30%" align="center" valign="middle">
@@ -34,11 +34,8 @@ Sou um estudante de CS apaixonado pela interseção entre lógica e arte.
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-943535?style=for-the-badge&logo=c%2B%2B&logoColor=f2e3c9"/>
   <img alt="Go" src="https://img.shields.io/badge/Go-7d6442?style=for-the-badge&logo=go&logoColor=f2e3c9"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-943535?style=for-the-badge&logo=python&logoColor=f2e3c9"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-7d6442?style=for-the-badge&logo=html5&logoColor=f2e3c9"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-943535?style=for-the-badge&logo=css3&logoColor=f2e3c9"/>
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-7d6442?style=for-the-badge&logo=lua&logoColor=f2e3c9"/>
   <img alt="Git" src="https://img.shields.io/badge/GIT-943535?style=for-the-badge&logo=git&logoColor=f2e3c9"/>
-  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-7d6442?style=for-the-badge&logo=arch-linux&logoColor=f2e3c9"/>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-943535?style=for-the-badge&logo=visual-studio-code&logoColor=f2e3c9"/>
 </div>
 
 <h3 align="center">📜 Registro de Atividade</h3>
