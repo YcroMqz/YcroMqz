@@ -30,7 +30,6 @@ Sou um estudante de CS apaixonado pela interseção entre lógica e arte.
 
 <h3 align="center">🥃 Arsenal Técnico</h3>
 <div align="center">
-  <img alt="C" src="https://img.shields.io/badge/C-7d6442?style=for-the-badge&logo=c&logoColor=f2e3c9"/>
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-943535?style=for-the-badge&logo=c%2B%2B&logoColor=f2e3c9"/>
   <img alt="Go" src="https://img.shields.io/badge/Go-7d6442?style=for-the-badge&logo=go&logoColor=f2e3c9"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-943535?style=for-the-badge&logo=python&logoColor=f2e3c9"/>
